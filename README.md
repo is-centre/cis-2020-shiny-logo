@@ -8,4 +8,4 @@ To compile the example video, in Unreal Editor go to Cinematics icon, from there
 
 Preview (GIF quality):
 
-![CIS_Logo_Show](.github\CIS_Logo_Show.gif)
+![CIS_Logo_Show](.github/CIS_Logo_Show.gif)
